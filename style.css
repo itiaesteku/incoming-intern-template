@@ -1,0 +1,71 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    background-image: "Desktop/BG.png";
+}
+
+
+.abc {
+    /* background-color: aquamarine; */
+    /*background-image: url("Email Template\Desktop\BG.png");*/
+    /* background-size: ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.container {
+    /* background-color: aliceblue; */
+    width: 50%;
+}
+
+.first-div {
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+
+.first-div-p {
+    padding: 30px 30px;
+    line-height: 25px;
+}
+
+.first-div-button {
+    margin: 0px 20px 20px 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.second-div {
+    margin-top: 20px;
+    padding: 30px 30px;
+    border: 3px white solid;
+    /* background-color: aliceblue; */
+    border-radius: 25px;
+}
+
+.third-div {
+    background-color: aliceblue;
+    border-radius: 25px;    
+}
+
+.third-div-p {
+    padding: 30px 30px;
+    line-height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.third-div-button {
+    margin: 0px 20px 20px 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
